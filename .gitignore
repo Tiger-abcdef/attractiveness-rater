@@ -1,0 +1,6 @@
+﻿venv/
+__pycache__/
+*.pyc
+.pytorch/
+.ipynb_checkpoints/
+.DS_Store
